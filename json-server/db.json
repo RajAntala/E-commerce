@@ -1,0 +1,65 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "email": "r@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "product": [
+    {
+      "category": "Women",
+      "name": "Women Maxi Blue Dress",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/1/h/g/m-pw333-purshottam-wala-original-imag8zf6ybkmhehy-bb.jpeg?q=70",
+      "price": "₹2,259",
+      "o_price": "₹1,899",
+      "dis": "Impress Everyone With Your Stunning Look By Wearing this gorgeous Dress. The Trendy Work & Designs Speak A Language Of Elegance And Felinity, Using The Finest Quality Fabrics And Is Trendy Fashionable As Well As Comfortable. It Is Light In Weight And Will Be Soft For Your Skin.",
+      "id": 1
+    },
+    {
+      "category": "Women",
+      "name": "Women Maxi Black Dress",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/j/4/e/xl-wdress-626-dresses-one-piece-frok-onepiece-for-women-one-original-imagmuggnz24ddk2.jpeg?q=70",
+      "price": "₹1,150",
+      "o_price": "₹1,899",
+      "dis": "Impress Everyone With Your Stunning Look By Wearing this gorgeous Dress. The Trendy Work & Designs Speak A Language Of Elegance And Felinity, Using The Finest Quality Fabrics And Is Trendy Fashionable As Well As Comfortable. It Is Light In Weight And Will Be Soft For Your Skin.",
+      "id": 2
+    },
+    {
+      "category": "Men",
+      "name": "Men Solid Round Neck Blue T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/d/f/r/s-rhp0739-red-tape-original-imagm6qyz86p949b.jpeg?q=70",
+      "price": "₹424",
+      "o_price": "₹1,699",
+      "dis": "Impress Everyone With Your Stunning Look By Wearing this gorgeous Dress. The Trendy Work & Designs Speak A Language Of Elegance And Felinity, Using The Finest Quality Fabrics And Is Trendy Fashionable As Well As Comfortable. It Is Light In Weight And Will Be Soft For Your Skin.",
+      "id": 3
+    },
+    {
+      "category": "Men",
+      "name": "Men Printed Polo Neck Blue T-Shirt",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l33cia80/t-shirt/v/6/p/m-ht1621-adidas-original-imageagv8vjqud4x.jpeg?q=70",
+      "price": "₹1,349",
+      "o_price": "₹2,899",
+      "dis": "Impress Everyone With Your Stunning Look By Wearing this gorgeous Dress. The Trendy Work & Designs Speak A Language Of Elegance And Felinity, Using The Finest Quality Fabrics And Is Trendy Fashionable As Well As Comfortable. It Is Light In Weight And Will Be Soft For Your Skin.",
+      "id": 4
+    },
+    {
+      "category": "Women",
+      "name": "Women Maxi Red Dress",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/dress/j/w/m/s-na-ttce000028-tokyo-talkies-original-imagz62z5tsdnuk7.jpeg?q=70",
+      "price": "₹795",
+      "o_price": "₹6,499",
+      "dis": "Impress Everyone With Your Stunning Look By Wearing this gorgeous Dress. The Trendy Work & Designs Speak A Language Of Elegance And Felinity, Using The Finest Quality Fabrics And Is Trendy Fashionable As Well As Comfortable. It Is Light In Weight And Will Be Soft For Your Skin.",
+      "id": 5
+    },
+    {
+      "category": "Men",
+      "name": "Dennis Lingo Men's Solid Slim Fit Cotton ",
+      "image": "https://m.media-amazon.com/images/I/618Wek95laS._UY741_.jpg",
+      "price": "₹569",
+      "o_price": "₹2,369",
+      "dis": "Impress Everyone With Your Stunning Look By Wearing this gorgeous Dress. The Trendy Work & Designs Speak A Language Of Elegance And Felinity, Using The Finest Quality Fabrics And Is Trendy Fashionable As Well As Comfortable. It Is Light In Weight And Will Be Soft For Your Skin.",
+      "id": 6
+    }
+  ]
+}
